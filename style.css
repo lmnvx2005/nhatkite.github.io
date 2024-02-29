@@ -1,0 +1,47 @@
+body{
+    background-color:blanchedalmond
+    
+}
+.avatar{
+    border-radius: 100px;
+
+
+}
+.button{
+    margin-bottom: 20px;
+    background-color: white;
+    border:0;
+    width: 300px;
+    padding: 15px 0 15px 0;
+    border-radius: 100px;
+    transition-duration: 0.3s;
+    transition-property: color ;
+    cursor: pointer;
+    
+}
+.button:hover {
+    color:antiquewhite;
+
+}
+#wrapper{
+    width: 960px;
+    margin : 0px auto; 
+}
+#header{
+    background-color: aquamarine;
+    color: crimson;
+    Padding:20px;
+    text-align: center;
+}
+
+
+#content{
+    flex-basis: 70%;
+
+}
+
+
+
+
+
+   
